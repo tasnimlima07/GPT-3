@@ -1,3 +1,16 @@
+import React from 'react'
+import './navbar.css';
+
+const Navbar = () => {
+  const[toggleMenu, setToggleMenu] = useState(false)
+  return (
+    <div>
+      Navbar
+    </div>
+  )
+}
+
+export default Navbar
 import React, {useState} from 'react';
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
 import logo from '../../assets/GPT-3.png';
