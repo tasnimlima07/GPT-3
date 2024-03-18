@@ -12,7 +12,6 @@ const Features = ({title, text}) => {
         <p>{text}</p>
       </div>
 
-
     </div>
   )
 }

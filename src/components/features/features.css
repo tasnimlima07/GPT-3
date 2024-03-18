@@ -11,7 +11,7 @@
 .gpt3__features-container__features-title{
     flex: 1;
     max-width: 100px;
-    margin-right: 1rem;
+    margin-right: 2rem;
     
     
 
@@ -61,5 +61,13 @@
     .gpt3__features{
         margin: 1rem 0;
     }
+    
+}
+
+@media (min-width: 280px) and (max-width: 320px) {
+    .gpt3__features-container__features-title h1{ 
+        font-size: 14px; 
+    } 
+    
     
 }
