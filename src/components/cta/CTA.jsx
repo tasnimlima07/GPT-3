@@ -4,7 +4,7 @@ import './cta.css'
 
 const CTA = () => {
   return (
-    <div className='gpt3__cta' id='cta'>
+    <div className='gpt3__cta' id='cta '>
       <div className='gpt3__cta-content'>
         <p>Request Early Access to Get Started</p>
         <h3>Register today & start exploring the endless possiblities.</h3>
