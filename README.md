@@ -22,6 +22,3 @@ Open your browser and navigate to http://localhost:3000 to view the application.
 Contributing
 Contributions to this project are welcome! If you encounter any bugs, have suggestions for improvements, or would like to add new features, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License.
-
